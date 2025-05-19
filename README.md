@@ -31,3 +31,7 @@ AI is Transforming Preventive Healthcare
 References
 1.	A. J. Nashwan et al., Cureus, 2024
 2.	WHO, 2024: https://www.who.int/news/item/01-03-2024-one-in-eight-people-are-now-living-with-obesity
+
+Python was used as a tool for this project. RandomForestClassifier was used in training the data.
+
+
